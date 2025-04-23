@@ -79,9 +79,7 @@ const Header = () => {
                 {link.label}
               </Link>
             ))}
-            <Button className="bg-kaveri-gold hover:bg-kaveri-brown text-white px-4 py-2 rounded-md text-sm w-full">
-              BECOME DEALER
-            </Button>
+         
           </nav>
         </div>
       </div>
